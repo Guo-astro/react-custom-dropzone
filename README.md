@@ -1,6 +1,6 @@
 # React Component Library Template
 
-A robust and customizable React component library template built with modern tools and best practices. Ideal for developers looking to create reusable UI components with ease.
+Easy to use React drop zone wrapper with ui bundled.
 
 ## 🚀 Features
 
