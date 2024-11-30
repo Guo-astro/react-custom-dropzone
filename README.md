@@ -14,15 +14,4 @@ A robust and customizable React component library template built with modern too
 - **Structured Folder Layout**: Organized directory structure for scalability and maintainability.
 - **Example Folder**: Contains example usage of components with a simple setup.
 
-## 📦 Installation
 
-```bash
-# Using npm
-npm install your-react-component-library-template
-
-# Using yarn
-yarn add your-react-component-library-template
-
-# Using pnpm
-pnpm add your-react-component-library-template
-```
